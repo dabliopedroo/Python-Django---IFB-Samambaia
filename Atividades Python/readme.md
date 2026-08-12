@@ -235,8 +235,8 @@ lista-exercicios/
 
 | Exercício                         | Status |
 | --------------------------------- | :----: |
-| 01 — Custo de um carro            |    ⬜   |
-| 02 — Troca de valores             |    ⬜   |
+| 01 — Custo de um carro            |    ✅   |
+| 02 — Troca de valores             |    ✅   |
 | 03 — Tempo de download            |    ⬜   |
 | 04 — Média e aprovação            |    ⬜   |
 | 05 — Classificação de temperatura |    ⬜   |
