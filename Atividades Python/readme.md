@@ -251,54 +251,6 @@ lista-exercicios/
 | 14 — Controle de estoque          |    ⬜   |
 | 15 — Campeonato de futebol        |    ⬜   |
 
-## ▶️ Como executar
-
-### 1. Clonar o repositório
-
-```bash
-git clone <URL_DO_REPOSITORIO>
-cd lista-exercicios
-```
-
-### 2. Criar o ambiente virtual
-
-```bash
-python -m venv venv
-```
-
-### 3. Ativar o ambiente virtual
-
-**Windows:**
-
-```bash
-venv\Scripts\activate
-```
-
-**Linux/macOS:**
-
-```bash
-source venv/bin/activate
-```
-
-### 4. Instalar as dependências
-
-```bash
-pip install django
-```
-
-### 5. Executar o projeto
-
-```bash
-python manage.py runserver
-```
-
-Depois, acessar:
-
-```text
-http://127.0.0.1:8000/
-```
-
----
 
 ## 👨‍💻 Desenvolvimento
 
